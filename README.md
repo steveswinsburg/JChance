@@ -1,0 +1,2 @@
+# JChance
+Random data generator
